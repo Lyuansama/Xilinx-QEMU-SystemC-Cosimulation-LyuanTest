@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/usr/local/systemc-2.3.2/lib-linux64/ ./zynqmp_demo     unix:/tmp/cosim/qemu-rport-_amba@0_cosim@0 10000000
