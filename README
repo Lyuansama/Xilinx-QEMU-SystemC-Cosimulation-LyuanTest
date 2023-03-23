@@ -1,3 +1,6 @@
+## 前言
+本部分基于 Xilinx 官方提供的 Demo，用于测试面向 ZYNQ MPSoC 的 QEMU + SystemC 联合仿真环境。由于官方的 SystemC 模型会自动生成 VCD 波形文件，该文件体积庞大，因此注释掉了生成 VCD 文件的部分。项目中添加了./start 文件，用于快速启动 SystemC 仿真环境。
+
 TLM-COSIM-DEMO
 ---------------------------------------
 This contains a small SystemC/TLM-2.0 based subsystem for demo purposes.
